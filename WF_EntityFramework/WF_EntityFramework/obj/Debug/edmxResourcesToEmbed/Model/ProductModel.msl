@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CRUD_ProductoModelStoreContainer" CdmEntityContainer="CRUD_ProductoEntities">
+    <EntitySetMapping Name="Productos">
+      <EntityTypeMapping TypeName="CRUD_ProductoModel.Productos">
+        <MappingFragment StoreEntitySet="Productos">
+          <ScalarProperty Name="ProductoId" ColumnName="ProductoId" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Precio" ColumnName="Precio" />
+          <ScalarProperty Name="Stock" ColumnName="Stock" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="CRUD_ProductoModel.Users">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="DNI" ColumnName="DNI" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="USP_ACTUALIZARPRODUCTO" FunctionName="CRUD_ProductoModel.Store.USP_ACTUALIZARPRODUCTO" />
+    <FunctionImportMapping FunctionImportName="USP_ELIMINARPRODUCTO" FunctionName="CRUD_ProductoModel.Store.USP_ELIMINARPRODUCTO" />
+    <FunctionImportMapping FunctionImportName="USP_INSERTARPRODUCTO" FunctionName="CRUD_ProductoModel.Store.USP_INSERTARPRODUCTO" />
+    <FunctionImportMapping FunctionImportName="USP_LISTARPRODUCTO" FunctionName="CRUD_ProductoModel.Store.USP_LISTARPRODUCTO">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="CRUD_ProductoModel.USP_LISTARPRODUCTO_Result">
+          <ScalarProperty Name="ProductoId" ColumnName="ProductoId" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Precio" ColumnName="Precio" />
+          <ScalarProperty Name="Stock" ColumnName="Stock" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_login" FunctionName="CRUD_ProductoModel.Store.usp_login">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="CRUD_ProductoModel.usp_login_Result">
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="DNI" ColumnName="DNI" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="USP_OBTENERPRODUCTO" FunctionName="CRUD_ProductoModel.Store.USP_OBTENERPRODUCTO">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="CRUD_ProductoModel.USP_OBTENERPRODUCTO_Result">
+          <ScalarProperty Name="ProductoId" ColumnName="ProductoId" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Precio" ColumnName="Precio" />
+          <ScalarProperty Name="Stock" ColumnName="Stock" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

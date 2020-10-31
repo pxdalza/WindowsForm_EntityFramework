@@ -1,0 +1,16 @@
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Proyectos\WindowsForm_EntityFramework\WF_EntityFramework\WF_EntityFramework\bin\Debug\WF_EntityFramework.exe.config
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Proyectos\WindowsForm_EntityFramework\WF_EntityFramework\WF_EntityFramework\bin\Debug\WF_EntityFramework.exe
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Proyectos\WindowsForm_EntityFramework\WF_EntityFramework\WF_EntityFramework\bin\Debug\WF_EntityFramework.pdb
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Proyectos\WindowsForm_EntityFramework\WF_EntityFramework\WF_EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Proyectos\WindowsForm_EntityFramework\WF_EntityFramework\WF_EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Proyectos\WindowsForm_EntityFramework\WF_EntityFramework\WF_EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Proyectos\WindowsForm_EntityFramework\WF_EntityFramework\WF_EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Proyectos\WindowsForm_EntityFramework\WF_EntityFramework\WF_EntityFramework\obj\Debug\WF_EntityFramework.csprojAssemblyReference.cache
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Proyectos\WindowsForm_EntityFramework\WF_EntityFramework\WF_EntityFramework\obj\Debug\WF_EntityFramework.frmProducto.resources
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Proyectos\WindowsForm_EntityFramework\WF_EntityFramework\WF_EntityFramework\obj\Debug\WF_EntityFramework.frmProductoDetalle.resources
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Proyectos\WindowsForm_EntityFramework\WF_EntityFramework\WF_EntityFramework\obj\Debug\WF_EntityFramework.Properties.Resources.resources
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Proyectos\WindowsForm_EntityFramework\WF_EntityFramework\WF_EntityFramework\obj\Debug\WF_EntityFramework.csproj.GenerateResource.cache
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Proyectos\WindowsForm_EntityFramework\WF_EntityFramework\WF_EntityFramework\obj\Debug\WF_EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Proyectos\WindowsForm_EntityFramework\WF_EntityFramework\WF_EntityFramework\obj\Debug\WF_EntityFramework.csproj.CopyComplete
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Proyectos\WindowsForm_EntityFramework\WF_EntityFramework\WF_EntityFramework\obj\Debug\WF_EntityFramework.exe
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Proyectos\WindowsForm_EntityFramework\WF_EntityFramework\WF_EntityFramework\obj\Debug\WF_EntityFramework.pdb
